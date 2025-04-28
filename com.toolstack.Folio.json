@@ -1,7 +1,7 @@
 {
     "app-id" : "com.toolstack.Folio",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "47",
+    "runtime-version" : "48",
     "sdk" : "org.gnome.Sdk",
     "command" : "com.toolstack.Folio",
     "finish-args" : [
@@ -33,8 +33,8 @@
              "sources" : [{
                 "type" : "git",
                 "url" : "https://gitlab.gnome.org/jwestman/blueprint-compiler.git",
-                "tag" : "v0.10.0",
-                "commit" : "2a39a16391122af2f3d812e478c1c1398c98b972"
+                "tag" : "v0.16.0",
+                "commit" : "04ef0944db56ab01307a29aaa7303df6067cb3c0"
             }]
         },
         {
@@ -44,8 +44,8 @@
             "sources" : [{
                 "type" : "git",
                 "url" : "https://github.com/toolstack/Folio",
-                "tag" : "25.01",
-                "commit" : "a9fc7592ccb1741820e5159267a6fb9cfce42dd2"
+                "tag" : "25.02",
+                "commit" : "5b168cf7bf11bbae3bcb22d1795de14572ad40a0"
             }]
         }
     ]
